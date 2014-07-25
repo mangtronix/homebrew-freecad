@@ -2,7 +2,7 @@ require "formula"
 
 class Freecad < Formula
   homepage "http://sourceforge.net/projects/free-cad/"
-  head "git://git.code.sf.net/p/free-cad/code"
+  head "https://github.com/mangtronix/FreeCAD_mangtronix.git"
   version '0.14-HEAD'
 
   # Debugging Support
